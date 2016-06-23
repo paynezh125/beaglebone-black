@@ -1,0 +1,6 @@
+{
+  "name": "BeagleBone Black",
+  "tagline": "Design and Document files for the BeagleBone Black from BeagleBoard.org",
+  "body": "BeagleBone-Black\r\n================\r\n\r\nDesign and Document files for the BeagleBone Black from BeagleBoard.org\r\n\r\nCurrent Production Revision is C\r\n\r\n# Web readable documents\r\n* [System Reference Manual](https://beagleboard.github.io/BeagleBone-Black/BBB_SRM.pdf)\r\n* [Bill of Materials](https://beagleboard.github.io/BeagleBone-Black/BBB_BOM.xml)\r\n* [PDF Schematic](https://beagleboard.github.io/BeagleBone-Black/BBB_SCH.pdf)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
