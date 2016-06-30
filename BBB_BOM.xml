@@ -9,7 +9,7 @@
   <LastAuthor>Jason Kridner</LastAuthor>
   <LastPrinted>2013-04-09T14:53:31Z</LastPrinted>
   <Created>2012-06-27T01:27:37Z</Created>
-  <LastSaved>2016-06-30T16:09:56Z</LastSaved>
+  <LastSaved>2016-06-30T15:58:29Z</LastSaved>
   <Company>Texas Instruments Incorporated</Company>
   <Version>14.0</Version>
  </DocumentProperties>
@@ -9979,11 +9979,11 @@
  <Worksheet ss:Name="BeagleBone Black BOM">
   <Names>
    <NamedRange ss:Name="_FilterDatabase"
-    ss:RefersTo="='BeagleBone Black BOM'!R1C2:R3525C7" ss:Hidden="1"/>
+    ss:RefersTo="='BeagleBone Black BOM'!R1C2:R3528C7" ss:Hidden="1"/>
    <NamedRange ss:Name="Print_Area"
-    ss:RefersTo="='BeagleBone Black BOM'!R7C2:R145C7"/>
+    ss:RefersTo="='BeagleBone Black BOM'!R7C2:R148C7"/>
   </Names>
-  <Table ss:ExpandedColumnCount="253" ss:ExpandedRowCount="3524" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="253" ss:ExpandedRowCount="3527" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s63" ss:DefaultColumnWidth="55"
    ss:DefaultRowHeight="14">
    <Column ss:StyleID="s64" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="23"/>
@@ -37077,15 +37077,270 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="10" ss:StyleID="s195">
     <Cell ss:StyleID="s194"/>
-    <Cell ss:MergeDown="1" ss:StyleID="m2099878628"><Data ss:Type="Number">1</Data><NamedCell
+    <Cell ss:MergeDown="2" ss:StyleID="m2099878628"><Data ss:Type="Number">1</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:MergeDown="1" ss:StyleID="m2099878648"><Data ss:Type="String">U12</Data><NamedCell
+    <Cell ss:MergeDown="2" ss:StyleID="m2099878648"><Data ss:Type="String">U12</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:MergeDown="1" ss:StyleID="m2099878668"><Data ss:Type="String">DDR3 Memory 4Gb,256Mx16</Data><NamedCell
+    <Cell ss:MergeDown="2" ss:StyleID="m2099878668"><Data ss:Type="String">DDR3 Memory 4Gb,256Mx16</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s280"><Data ss:Type="String">Micron</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s281"><Data ss:Type="String">MT41K256M16HA-125:E</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s282"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="10" ss:StyleID="s195">
+    <Cell ss:StyleID="s194"/>
+    <Cell ss:Index="5" ss:StyleID="s280"><Data ss:Type="String">Micron</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s281"><Data ss:Type="String">MT41K256M16TW-107:P</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s282"><NamedCell ss:Name="Print_Area"/><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
@@ -37593,11 +37848,11 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="10" ss:StyleID="s195">
     <Cell ss:StyleID="s194"/>
-    <Cell ss:MergeDown="2" ss:StyleID="m2099883240"><Data ss:Type="Number">1</Data><NamedCell
+    <Cell ss:MergeDown="4" ss:StyleID="m2099883240"><Data ss:Type="Number">1</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:MergeDown="2" ss:StyleID="m2099883260"><Data ss:Type="String">U13</Data><NamedCell
+    <Cell ss:MergeDown="4" ss:StyleID="m2099883260"><Data ss:Type="String">U13</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:MergeDown="2" ss:StyleID="m2099883280"><Data ss:Type="String">IC MEMORY, 4GB eMMC</Data><NamedCell
+    <Cell ss:MergeDown="4" ss:StyleID="m2099883280"><Data ss:Type="String">IC MEMORY, 4GB eMMC</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s283"><Data ss:Type="String">Micron</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -37857,6 +38112,516 @@
     <Cell ss:Index="5" ss:StyleID="s283"><Data ss:Type="String">Micron</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">MTFC4GMCDM-1M WT</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s200"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="10" ss:StyleID="s195">
+    <Cell ss:StyleID="s194"/>
+    <Cell ss:Index="5" ss:StyleID="s283"><Data ss:Type="String">Micron</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MTFC4GACAJCN-1M WT</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s200"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="10" ss:StyleID="s195">
+    <Cell ss:StyleID="s194"/>
+    <Cell ss:Index="5" ss:StyleID="s283"><Data ss:Type="String">Kingston</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">EMMC04G-S100-A08U</Data><NamedCell
       ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s200"><NamedCell ss:Name="Print_Area"/><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
@@ -42811,7 +43576,7 @@
     <Cell ss:Index="5" ss:StyleID="s316"><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s316"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Index="156" ss:AutoFitHeight="0" ss:StyleID="s315">
+   <Row ss:Index="159" ss:AutoFitHeight="0" ss:StyleID="s315">
     <Cell ss:StyleID="s317"/>
     <Cell ss:StyleID="Default"><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s324"><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -66419,14 +67184,14 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>126</ActiveRow>
+     <ActiveRow>128</ActiveRow>
      <ActiveCol>4</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
    <ProtectScenarios>False</ProtectScenarios>
   </WorksheetOptions>
-  <AutoFilter x:Range="R1C2:R3525C7"
+  <AutoFilter x:Range="R1C2:R3528C7"
    xmlns="urn:schemas-microsoft-com:office:excel">
   </AutoFilter>
  </Worksheet>
