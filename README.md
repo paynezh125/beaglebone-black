@@ -1,6 +1,5 @@
-BeagleBone-Black
+BeagleBone Black
 ================
 
-Design and Document files for the BeagleBone Black from BeagleBoard.org
+[![](OSHW_mark_US000236.png)](https://certification.oshwa.org/us000236.html)
 
-Current Production Revision is C
